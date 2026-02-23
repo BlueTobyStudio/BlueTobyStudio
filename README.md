@@ -1,29 +1,164 @@
 ## Welcome
 
 > [!IMPORTANT]
-> We are open to collaborations (mail us at admin@sonoklo.com)
+> We are open to collaborations (mail us at talk@bluetobystudio.com)
 
-Blue Toby Studio is a casual game studio working on all platforms (mobile, web, pc and console). We try to produce quality games and logic libraries.
+I founded the Blue Toby Studio in 2025 to hub all my crazy and not-so-crazy ideas.
 
-## Our vision
+## Vision
 
-For most of the games on the mobile stores, we can clearly see the main reason of the publisher: making money. People forget that games are not products; they are pieces of art. Some will try to promote quantity over quality. That is a sacrifice that we are not ready to make. One sentence can summarize our work: "You either publish something clean, or you don't." Through the internet, published work becomes accessible not only to contemporary users but also serves as a valuable legacy for future generations. A collapsing bridge makes more victims than no bridge at all.
+The joy of creation is a very niche sentiment. That satisfaction you have when you click the "Publish" button of something you put your sweat into. So I decided to devote myself to prolonging this sentiment while sharing my work with the world, by founding Blue Toby Studio, an independent software creation studio.
 
 ## Next releases
 
-Our team is developing a new puzzle game titled `SONOKLO`. It will launch on Android devices first. Depending on its success, we may release it for Apple products later.
+Currently developing a new puzzle game titled `SONOKLO`. It will launch on Android devices first. Depending on its success, we may release it for other platforms.
 
-<!--
-**BlueDeckStudio/BlueDeckStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Rules of existence
 
-Here are some ideas to get you started:
+I bind the studio existence to three golden rules. I am stating them here to clarify (to me and to you all) what should be the goals of all the work I'm gonna put in this little project:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div
+  style="display: flex; gap: 8px; flex-direction: column;"
+>
+<div
+  style="display: flex; align-items: center; gap: 16px;"
+>
+<svg
+   version="1.1"
+   id="svg1"
+   width="20px"
+   height="20px"
+   style="border-radius: 4px;"
+   viewBox="0 0 1080 1080"
+   sodipodi:docname="Design sans titre(1).jpg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1080"
+       height="1080"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <path
+       style="fill:#ff487f"
+       d="M 0,540 V 0 h 540 540 v 540 540 H 540 0 Z m 577.88451,313.33375 c 15.73852,-9.16644 34.11544,-19.85394 40.83761,-23.75 l 12.22212,-7.08375 0.0108,-48.5 0.0108,-48.5 -11.23292,-6.45041 c -6.17811,-3.54773 -24.61055,-14.23523 -40.96098,-23.75 C 562.42152,685.78481 548.85819,678 548.63122,678 c -0.22696,0 -14.07434,7.91886 -30.77194,17.59747 -16.69761,9.6786 -35.19167,20.3661 -41.09792,23.75 l -10.73864,6.15253 -0.008,48.5 -0.008,48.5 8.24673,4.7283 c 4.53571,2.60057 22.87174,13.27298 40.74674,23.71648 17.875,10.44349 32.89803,19.00326 33.38451,19.02169 0.48648,0.0184 13.76148,-7.46628 29.5,-16.63272 z M 695,623.43589 c 10.57281,-3.13068 19.02041,-8.34207 27.83292,-17.17035 6.98624,-6.99875 9.03077,-9.83605 12.65114,-17.55668 4.32901,-9.23185 6.40883,-16.59589 6.63937,-23.50808 0.0898,-2.69351 0.37562,-1.93349 1.04999,2.79238 2.12743,14.90849 8.3803,27.38029 19.32658,38.54824 7.70955,7.86567 16.09627,13.02443 27,16.60798 10.23202,3.3628 25.87118,3.16504 37,-0.46787 17.21553,-5.61985 30.95843,-17.91067 39.02914,-34.9053 6.31649,-13.30072 7.62116,-25.645 5.41941,-51.27621 C 864.1881,457.79952 832.47199,388.06618 777.58093,331.21514 716.35829,267.80643 633.74204,232.03952 548.5,232.03952 c -45.03799,0 -93.397,10.98773 -133.83076,30.40791 -36.19956,17.38652 -66.85382,39.5235 -95.29443,68.81689 C 275.92524,376.01671 246.12507,431.25195 232.6557,492 c -5.03544,22.71025 -8.28911,53.56079 -7.38259,70 2.53682,46.00383 48.30337,75.37769 89.9242,57.71511 11.24694,-4.77285 25.03604,-17.8599 31.06909,-29.48725 4.16736,-8.03165 5.53552,-12.10149 7.25727,-21.58806 0.76779,-4.23037 1.33261,-5.8355 1.38608,-3.93902 0.32152,11.40308 7.71255,28.27168 16.75164,38.23239 6.86419,7.56406 17.75907,14.97674 26.56308,18.07302 7.85806,2.76361 24.95881,3.79488 34.03248,2.05236 3.43368,-0.65941 10.01904,-3.01093 14.63413,-5.22561 6.64732,-3.18989 10.09318,-5.72099 16.58165,-12.17981 4.5048,-4.48422 9.58321,-10.62813 11.28535,-13.65313 4.06906,-7.23145 8.21759,-19.7578 8.338,-25.17632 0.0812,-3.6543 0.38056,-2.95687 1.93357,4.50489 4.88319,23.46222 21.434,42.60724 43.50848,50.32809 7.00281,2.44933 9.40735,2.78477 19.96187,2.78477 10.55452,0 12.95906,-0.33544 19.96187,-2.78477 22.16194,-7.75144 38.60758,-26.79391 43.52136,-50.39355 1.44882,-6.95833 1.84439,-7.93108 1.92069,-4.72321 0.34414,14.46964 10.05419,32.77625 23.5104,44.32478 6.29408,5.40177 19.01739,11.68759 27.61142,13.64113 7.85804,1.78624 22.03785,1.2801 29.97426,-1.06992 z"
+       id="path1" />
+  </g>
+</svg> <strong>Humans make games for other humans</strong> We won't encourage nor publish any AI generated content.
+</div>
+
+<div
+  style="display: flex; align-items: center; gap: 16px;"
+>
+<svg
+   version="1.1"
+   id="svg1"
+   width="20px"
+   height="20px"
+   style="border-radius: 4px;"
+   viewBox="0 0 1080 1080"
+   sodipodi:docname="Design sans titre.jpg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1080"
+       height="1080"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <path
+       style="fill:#ffd166"
+       d="M 0,540 V 0 h 540 540 v 540 540 H 540 0 Z m 646.6678,320.13856 c 9.89867,-2.59249 15.19972,-4.80927 24.63737,-10.3028 20.62631,-12.00631 37.36919,-31.41395 46.44386,-53.83576 4.87607,-12.04786 6.51552,-20.93205 6.45875,-35 -0.0618,-15.31615 -2.91594,-27.62372 -9.51975,-41.05101 C 712.26732,715.02705 710.46305,711 710.67855,711 c 0.2155,0 1.38848,0.64071 2.60663,1.42381 4.57263,2.93954 19.49575,8.46116 27.09557,10.02548 9.89161,2.03605 29.5185,2.11979 39.61925,0.16904 30.30707,-5.85317 55.91606,-24.94951 70.19081,-52.34052 9.38636,-18.01098 12.30842,-31.25231 11.52394,-52.22083 -0.64236,-17.16959 -3.00892,-26.91427 -10.03697,-41.32882 -5.38102,-11.03647 -12.02805,-20.0342 -20.98178,-28.40189 l -6.60611,-6.17373 7.78105,-7.82627 c 15.64866,-15.73959 25.50281,-34.70374 29.73903,-57.23223 2.43087,-12.92756 1.50694,-33.64651 -2.0332,-45.59404 -8.82265,-29.77532 -29.99887,-53.98661 -59.17911,-67.66093 -12.94917,-6.06818 -23.46685,-8.26426 -39.39766,-8.22616 -17.38029,0.0416 -27.32502,2.44926 -43.27991,10.47841 -3.17895,1.59977 -5.99793,2.90868 -6.26439,2.90868 -0.26647,0 0.87784,-2.69876 2.54291,-5.99725 8.65533,-17.14611 11.93497,-34.80941 9.98057,-53.75275 -2.4026,-23.28765 -11.21636,-42.66425 -27.18367,-59.76189 -24.08905,-25.79432 -60.70817,-37.23958 -95.84716,-29.95691 -19.929,4.13035 -37.3948,13.91481 -52.13507,29.20641 l -6.68672,6.93683 -7.31328,-7.37552 c -31.31111,-31.57761 -79.96142,-40.75167 -119.00232,-22.44042 -21.80076,10.22515 -40.29639,29.12133 -51.35581,52.468 -6.56714,13.86335 -8.85153,24.34314 -8.75707,40.1735 0.0946,15.85065 2.9924,28.35512 9.68542,41.79386 2.40882,4.83663 4.09546,8.63828 3.74809,8.44812 -4.18674,-2.29194 -16.70007,-7.88915 -20.45312,-9.14869 -22.67454,-7.60968 -50.93792,-5.17691 -74.38632,6.40281 -25.99225,12.83597 -44.05983,34.57234 -52.96483,63.71982 -2.48178,8.12328 -2.68907,10.17577 -2.75549,27.28408 -0.064,16.49222 0.18378,19.42249 2.28337,27 4.95763,17.89221 16.52311,37.05343 28.98716,48.02474 l 6.11801,5.38529 -6.23019,6.08242 c -16.25117,15.86575 -27.51307,36.8524 -31.23789,58.21213 -1.73568,9.95311 -1.95405,28.32918 -0.43804,36.86176 5.57157,31.35859 27.09485,59.90329 56.22734,74.57009 16.62444,8.3696 27.23502,11.00691 44.21841,10.99067 16.04646,-0.0153 28.40692,-3.0241 43.35518,-10.55343 4.04535,-2.03761 7.19277,-3.33776 6.99427,-2.88921 -0.1985,0.44855 -1.60636,3.18385 -3.12857,6.07845 -4.59233,8.73267 -8.51828,22.05501 -9.69845,32.91079 -4.64931,42.76674 17.72216,83.17423 56.34733,101.77492 17.45785,8.40716 24.74502,10.02171 45.13024,9.99906 12.62343,-0.014 18.73449,-0.45579 23.73731,-1.71595 18.72021,-4.71544 35.39288,-14.23008 49.04231,-27.98712 l 7.77963,-7.84096 5.22037,5.72704 c 14.40834,15.80672 39.33433,28.73803 62.30513,32.32316 10.08007,1.57324 31.81122,0.61302 41.08305,-1.81529 z M 529.5,643.88659 c -15.75862,-1.5123 -34.22563,-7.98592 -47.23347,-16.55772 -8.26325,-5.44525 -23.29477,-20.27712 -28.67087,-28.29006 -6.66123,-9.9284 -12.20707,-22.1 -15.28155,-33.53881 -2.38836,-8.88605 -2.68776,-11.78232 -2.68776,-26 0,-14.17503 0.3028,-17.12358 2.65477,-25.8507 5.13767,-19.06367 12.91188,-32.68277 26.99975,-47.29897 9.78466,-10.15161 17.2615,-15.61123 29.22529,-21.34046 28.38484,-13.59295 62.47071,-13.6234 90.84448,-0.0812 11.47775,5.47811 17.80524,9.98889 27.96798,19.93803 20.8165,20.379 31.68138,46.12731 31.68138,75.08063 0,28.27133 -11.31749,54.5031 -32.19141,74.61347 -14.1296,13.61276 -26.06806,20.62614 -43.9082,25.79436 -7.48689,2.16892 -11.48468,2.78284 -26.40039,4.05418 -2.2,0.18752 -8.05,-0.0477 -13,-0.52275 z m 24.48483,-46.44455 c 17.05451,-4.01953 31.42861,-15.36051 39.03878,-30.80108 9.06488,-18.39211 9.06906,-35.88114 0.013,-54.25572 C 587.51076,501.17346 577.55696,491.27587 566.5,485.9985 556.94475,481.43788 550.59254,480 540,480 c -10.5976,0 -16.94853,1.43874 -26.5,6.00333 -19.36468,9.25425 -33.46527,31.79507 -33.46527,53.49667 0,26.53473 19.74317,51.66476 45.47749,57.88587 7.94249,1.92004 20.45961,1.94474 28.47261,0.0562 z"
+       id="path1" />
+  </g>
+</svg>
+ <strong>Do what you love</strong> and love what you do.
+</div>
+
+<div
+  style="display: flex; align-items: center; gap: 16px;"
+>
+<svg
+   version="1.1"
+   id="svg1"
+   width="20px"
+   height="20px"
+   style="border-radius: 4px;"
+   viewBox="0 0 1080 1080"
+   sodipodi:docname="Design sans titre(2).jpg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1080"
+       height="1080"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <path
+       style="fill:#57e4a7"
+       d="M 0,540 V 0 h 540 540 v 540 540 H 540 0 Z m 581,333.55912 c 25.61619,-3.33753 55.3781,-10.57454 77,-18.72359 13.72277,-5.17196 41.75037,-18.82762 55,-26.79721 C 814.21268,767.1594 875.97937,657.99729 875.97937,540 c 0,-57.15802 -15.27961,-115.88411 -42.67526,-164.01933 C 800.96534,319.16019 757.45029,276.15851 700.5,244.74332 c -34.75036,-19.16916 -78.05181,-33.03076 -120,-38.41425 -19.65738,-2.52275 -61.48914,-2.51208 -81,0.0207 -99.70789,12.9433 -185.26079,65.85318 -239.61963,148.19188 -29.99489,45.43401 -47.06453,92.30435 -54.06681,148.45838 -1.7173,13.7717 -1.72846,60.09251 -0.0178,74 13.08574,106.38718 71.2174,196.91207 161.20426,251.03357 42.72421,25.69595 89.36891,41.13334 140.5,46.49945 16.89514,1.77311 56.43755,1.24916 73.5,-0.9739 z M 510.08818,664.25 C 493.98262,629.7375 480.28664,600.99191 479.65267,600.37092 478.62188,599.36123 456.22326,588.7785 377.25,551.98851 363.9125,545.77519 353,540.38036 353,540 c 0,-0.38036 10.9125,-5.77519 24.25,-11.98851 78.97326,-36.78999 101.37188,-47.37272 102.40267,-48.38241 0.63397,-0.62099 14.32995,-29.36658 30.43551,-63.87908 16.10556,-34.5125 29.56321,-62.75 29.9059,-62.75 0.34268,0 13.8983,28.4625 30.12359,63.25 l 29.50052,63.25 4.94091,2.52704 c 2.71749,1.38987 31.3784,14.85871 63.6909,29.93076 C 700.5625,527.02984 727,539.64883 727,540 c 0,0.35117 -26.4375,12.97016 -58.75,28.0422 -32.3125,15.07205 -60.97341,28.54089 -63.6909,29.93076 L 599.61819,600.5 570.11767,663.75 C 553.89238,698.5375 540.33676,727 539.99408,727 c -0.34269,0 -13.80034,-28.2375 -29.9059,-62.75 z"
+       id="path1" />
+  </g>
+</svg> <strong>We create games for players, not for buyers</strong> Money isn't the objective of the studio. 
+</div>
+</div>
