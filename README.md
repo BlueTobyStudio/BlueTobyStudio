@@ -20,20 +20,6 @@ I bind the studio existence to three golden rules. I am stating them here to cla
 <div
   style="display: flex; gap: 8px; flex-direction: column;"
 >
-
-<!-- <div
-  style="display: flex; align-items: center; gap: 16px;"
->
-
-<img
-   width="20px"
-   height="20px"
-   style="border-radius: 4px;"
-   src="./assets/icons/slopiness_reversed_color.svg"
-   alt="No-AI">
-</img> <strong>Humans make games for other humans</strong> We won't encourage nor publish any AI generated content.
-</div> -->
-
 <div
   style="display: flex; align-items: center; gap: 16px;"
 >
